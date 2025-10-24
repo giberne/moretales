@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MORETALES Archive
 
-## Getting Started
+> Une archive digitale immortalisant l'univers créatif de la marque de vêtements **Moretales**.
 
-First, run the development server:
+## 📖 À propos
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Moretales était une marque de vêtements combinant minimalisme esthétique et richesse conceptuelle. Ce site archive est un espace de mémoire visuelle et créative, préservant les collections, le processus créatif et l'identité unique de la marque.
+
+### L'histoire en trois actes
+
+**2021 - Le Lancement**
+Naissance de la vision : fusionner mode, art et narration. Association avec l'artiste couturier Baptiste Eybert pour allier vision créative et savoir-faire artisanal.
+
+**2022 - Genesis Tale**
+Première collection dévoilée lors d'une boutique éphémère pendant la Fashion Week de Paris. Un univers en genèse, des détails subtils évoquant un récit en construction.
+
+**2024 - Pixel Tale**
+Évolution digitale : exploration audacieuse des codes du pixel art et des univers rétro gaming appliqués à la couture contemporaine.
+
+## ✨ L'expérience
+
+### Une immersion visuelle
+- **Logo 3D interactif** : Explorez les deux logos de la marque en trois dimensions
+- **Collections immersives** : Découvrez les deux univers créatifs à travers des galeries photo et vidéo
+- **Chronologie interactive** : Voyagez à travers l'évolution de la marque de 2021 à 2024
+- **Making-of créatif** : Plongez dans les coulisses de la création, du design au shooting
+
+### Les collections
+
+#### The Genesis Tale (2022)
+Notre première collection qui pose les bases de l'identité Moretales. Un mélange subtil entre héritage artisanal et vision contemporaine. Découvrez les pièces phares, les photos du Pop-up Store de Paris et le shooting au Lac du Salagou.
+
+#### The Pixel Tale (2024)
+Une exploration audacieuse des codes du design digital appliqués à la couture. L'intersection entre pixels et textile, inspirée des jeux vidéo rétro des années 80-90.
+
+## 🎨 Direction artistique
+
+**Minimalisme numérique rétro-futuriste**
+Une esthétique épurée inspirée des wireframes vectoriels, où le noir et blanc dominent, rehaussés d'accents bleu électrique subtils. Le site met en avant le contenu visuel avec des animations fluides et des effets de glow discrets.
+
+## 🚀 Visite
+
+Ce site est une expérience statique optimisée pour une navigation fluide et immersive sur tous les appareils. Chaque page a été pensée pour mettre en valeur les créations et raconter l'histoire de Moretales.
+
+### Navigation
+```
+Accueil → L'histoire → Collections → Making-of
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📸 Contenu
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **2 collections complètes** avec photos de shooting professionnelles
+- **Logos 3D** en haute définition
+- **Timeline interactive** retraçant l'évolution de la marque
+- **Making-of** du processus créatif et de direction artistique
+- **Photos d'événements** (Pop-up Store Paris)
+- **Vidéos** des coulisses et du processus de création
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+**Ce projet est une archive. La marque Moretales n'est plus en activité.**
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Pour toute question concernant ce projet : contact via le site.
