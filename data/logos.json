@@ -1,0 +1,20 @@
+{
+  "logos": [
+    {
+      "id": "logo-v1",
+      "name": "Logo Principal",
+      "model": "/models/logo-v1.glb",
+      "scale": 1,
+      "rotation": [0, 0, 0],
+      "position": [0, 0, 0]
+    },
+    {
+      "id": "logo-v2",
+      "name": "Logo Compass en Volume",
+      "model": "/models/logo-v2.glb",
+      "scale": 1,
+      "rotation": [0, 0, 0],
+      "position": [0, 0, 0]
+    }
+  ]
+}

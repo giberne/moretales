@@ -1,0 +1,145 @@
+{
+  "collections": [
+    {
+      "id": "genesis-tale",
+      "name": "The Genesis Tale",
+      "slug": "genesis-tale",
+      "season": "Summer",
+      "year": 2022,
+      "description": "Première collection qui pose les bases de l'identité Moretales.",
+      "concept": "Mélange subtil entre héritage artisanal et vision contemporaine. Articulation autour de l'idée de création et d'exploration, avec des coupes épurées et des détails subtils évoquant un récit en construction.",
+      "releaseDate": "2022-06-01",
+      "items": [
+        {
+          "id": "snake-tale",
+          "type": "t-shirt",
+          "name": "T-shirt Snake Tale",
+          "description": "T-shirt avec motif serpent emblématique",
+          "images": [
+            "/images/genesis-tale/snake/1.jpg",
+            "/images/genesis-tale/snake/2.jpeg",
+            "/images/genesis-tale/snake/3.jpeg",
+            "/images/genesis-tale/snake/4.jpeg"
+          ]
+        },
+        {
+          "id": "impact-et-toile",
+          "type": "t-shirt",
+          "name": "T-shirt Impact-et-Toile (Stars)",
+          "description": "T-shirt avec motif étoiles",
+          "images": [
+            "/images/genesis-tale/stars/1.jpeg",
+            "/images/genesis-tale/stars/2.jpeg",
+            "/images/genesis-tale/stars/3.jpeg",
+            "/images/genesis-tale/stars/4.jpeg"
+          ]
+        },
+        {
+          "id": "usa-collection",
+          "type": "t-shirt",
+          "name": "USA Collection",
+          "description": "Autres pièces de la collection Genesis",
+          "images": [
+            "/images/genesis-tale/usa/10.jpg",
+            "/images/genesis-tale/usa/11.jpg",
+            "/images/genesis-tale/usa/12.jpg",
+            "/images/genesis-tale/usa/13.jpg",
+            "/images/genesis-tale/usa/14.jpg"
+          ]
+        }
+      ],
+      "gallery": [
+        "/images/genesis-tale/salagou/1.jpg",
+        "/images/genesis-tale/salagou/2.jpg",
+        "/images/genesis-tale/salagou/3.jpg"
+      ],
+      "moodboards": [
+        "/images/genesis-tale/salagou/moodboard/moodboard-2.png",
+        "/images/genesis-tale/salagou/moodboard/moodboard-3.png",
+        "/images/genesis-tale/salagou/moodboard/moodboard-4.png",
+        "/images/genesis-tale/salagou/moodboard/moodboard-5.png",
+        "/images/genesis-tale/salagou/moodboard/storyboard-1.jpeg",
+        "/images/genesis-tale/salagou/moodboard/storyboard-2.jpeg"
+      ],
+      "videos": [],
+      "event": {
+        "name": "Pop-Up Store Paris",
+        "location": "Paris, France",
+        "date": "Juin 2022 - Fashion Week",
+        "images": [
+          "/images/genesis-tale/popup/1.JPG",
+          "/images/genesis-tale/popup/2.JPG",
+          "/images/genesis-tale/popup/3.jpg",
+          "/images/genesis-tale/popup/4.jpg",
+          "/images/genesis-tale/popup/5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "pixel-tale",
+      "name": "The Pixel Tale",
+      "slug": "pixel-tale",
+      "season": "Winter",
+      "year": 2024,
+      "description": "Exploration audacieuse des codes du design digital appliqués à la couture.",
+      "concept": "S'inspire du pixel art et des univers numériques rétro gaming (années 80-90). Repositionnement vers l'intersection mode et culture digitale.",
+      "releaseDate": "2024-09-01",
+      "items": [
+        {
+          "id": "hoodie-noir",
+          "type": "hoodie",
+          "name": "Hoodie Noir",
+          "description": "Hoodie noir avec pixel art",
+          "images": [
+            "/images/pixel-tale/hoodie/black/front.jpg",
+            "/images/pixel-tale/hoodie/black/back.jpg",
+            "/images/pixel-tale/hoodie/black/front-logo.jpg",
+            "/images/pixel-tale/hoodie/black/back-logo-1.jpg",
+            "/images/pixel-tale/hoodie/black/back-logo-2.jpg",
+            "/images/pixel-tale/hoodie/black/hood-logo.jpg",
+            "/images/pixel-tale/hoodie/black/effect.jpg"
+          ],
+          "shooting": [
+            "/images/pixel-tale/hoodie/black/shoot-1.jpg",
+            "/images/pixel-tale/hoodie/black/shoot-2.jpg",
+            "/images/pixel-tale/hoodie/black/shoot-3.jpg",
+            "/images/pixel-tale/hoodie/black/shoot-4.jpg"
+          ]
+        },
+        {
+          "id": "hoodie-bleu",
+          "type": "hoodie",
+          "name": "Hoodie Bleu",
+          "description": "Hoodie bleu avec pixel art",
+          "images": [
+            "/images/pixel-tale/hoodie/blue/front.jpg",
+            "/images/pixel-tale/hoodie/blue/back.jpg",
+            "/images/pixel-tale/hoodie/blue/front-logo.jpg",
+            "/images/pixel-tale/hoodie/blue/back-logo-1.jpg",
+            "/images/pixel-tale/hoodie/blue/hood-logo.jpg",
+            "/images/pixel-tale/hoodie/blue/effect.jpg"
+          ],
+          "shooting": [
+            "/images/pixel-tale/hoodie/blue/shoot-1.jpg"
+          ]
+        },
+        {
+          "id": "tee-devise",
+          "type": "t-shirt",
+          "name": "T-shirt Devise Cardinal",
+          "images": [
+            "/images/pixel-tale/tee/1.png",
+            "/images/pixel-tale/tee/2.png",
+            "/images/pixel-tale/tee/3.jpg"
+          ]
+        }
+      ],
+      "gallery": [
+        "/images/pixel-tale/hoodie/1.jpg",
+        "/images/pixel-tale/hoodie/2.jpg",
+        "/images/pixel-tale/hoodie/3.jpg"
+      ],
+      "videos": []
+    }
+  ]
+}

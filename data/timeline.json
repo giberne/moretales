@@ -1,0 +1,43 @@
+{
+  "events": [
+    {
+      "year": 2021,
+      "title": "Naissance de la vision",
+      "category": "launch",
+      "description": "Fusion mode, art et narration. Association avec Baptiste Eybert (artiste couturier). Vision créative + savoir-faire artisanal."
+    },
+    {
+      "year": 2021,
+      "title": "Savoir-faire artisanal",
+      "category": "launch",
+      "description": "Baptiste Eybert : vision artistique unique. Recherche conceptuelle + expérimentation textile. Création de pièces uniques."
+    },
+    {
+      "year": 2022,
+      "title": "The Genesis Tale",
+      "category": "collection",
+      "description": "Première collection (fondations univers Moretales). Récit en construction, monde en genèse.",
+      "link": "/genesis-tale"
+    },
+    {
+      "year": 2022,
+      "title": "Pop-Up Store Paris",
+      "category": "event",
+      "description": "Fashion Week Paris (Juin 2022). Espace hybride showroom/galerie d'art.",
+      "image": "/images/genesis-tale/popup/popup-1.jpg"
+    },
+    {
+      "year": 2024,
+      "title": "The Pixel Tale",
+      "category": "collection",
+      "description": "Inspiration pixel art et univers numériques. Hommage rétro gaming (80-90). Codes appliqués à la couture contemporaine.",
+      "link": "/pixel-tale"
+    },
+    {
+      "year": 2024,
+      "title": "Nouvelle direction artistique",
+      "category": "evolution",
+      "description": "Intersection mode et culture digitale. T-shirts et hoodies minimalistes. Esthétique gaming."
+    }
+  ]
+}

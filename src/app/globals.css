@@ -32,6 +32,7 @@
 
   /* Wireframe */
   --wireframe-line: rgba(255, 255, 255, 0.15);
+  --wireframe-dot: rgba(255, 255, 255, 0.08);
   --wireframe-glow: rgba(0, 217, 255, 0.2);
 
   /* Spacing */
@@ -79,11 +80,6 @@
   --font-mono: var(--font-ibm-plex-mono);
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 html {
   scroll-behavior: smooth;
@@ -104,8 +100,14 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
 }
 
-/* Wireframe grid utility */
+/* Wireframe dot grid utility */
 .wireframe-grid {
+  background-image: radial-gradient(circle, var(--wireframe-dot) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Wireframe line grid (alternative) */
+.wireframe-grid-lines {
   background-image:
     linear-gradient(var(--wireframe-line) 1px, transparent 1px),
     linear-gradient(90deg, var(--wireframe-line) 1px, transparent 1px);
@@ -134,4 +136,20 @@ h1, h2, h3, h4, h5, h6 {
 
 ::-webkit-scrollbar-thumb:hover {
   background: var(--electric-blue);
+}
+
+/* Animations */
+@keyframes shimmer {
+  0% {
+    transform: translateX(0) skewX(-12deg);
+  }
+  100% {
+    transform: translateX(200%) skewX(-12deg);
+  }
+}
+
+@layer utilities {
+  .animate-shimmer {
+    animation: shimmer 2s ease-in-out;
+  }
 }
